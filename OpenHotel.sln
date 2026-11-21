@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenHOtel.Domain", "src\OpenHOtel.Domain\OpenHOtel.Domain.csproj", "{9B935BB8-C327-43BC-AD1B-6B0748470B41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenHotel.Contracts", "src\OpenHotel.Contracts\OpenHotel.Contracts.csproj", "{03140ADE-CE30-45AD-A8CE-6A0EFCF46949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DB11C8-79C6-4C4E-957E-2F6C78EB0BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DB11C8-79C6-4C4E-957E-2F6C78EB0BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DB11C8-79C6-4C4E-957E-2F6C78EB0BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DB11C8-79C6-4C4E-957E-2F6C78EB0BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B935BB8-C327-43BC-AD1B-6B0748470B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B935BB8-C327-43BC-AD1B-6B0748470B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B935BB8-C327-43BC-AD1B-6B0748470B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B935BB8-C327-43BC-AD1B-6B0748470B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03140ADE-CE30-45AD-A8CE-6A0EFCF46949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03140ADE-CE30-45AD-A8CE-6A0EFCF46949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03140ADE-CE30-45AD-A8CE-6A0EFCF46949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03140ADE-CE30-45AD-A8CE-6A0EFCF46949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

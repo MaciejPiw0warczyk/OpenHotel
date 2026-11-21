@@ -1,0 +1,12 @@
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\bin\Debug\net11.0\OpenHotel.Contracts.deps.json
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\bin\Debug\net11.0\OpenHotel.Contracts.dll
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\bin\Debug\net11.0\OpenHotel.Contracts.pdb
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\OpenHotel.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\OpenHotel.Contracts.AssemblyInfoInputs.cache
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\OpenHotel.Contracts.AssemblyInfo.cs
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\OpenHotel.Contracts.csproj.CoreCompileInputs.cache
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\OpenHotel.Contracts.dll
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\refint\OpenHotel.Contracts.dll
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\OpenHotel.Contracts.pdb
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\ref\OpenHotel.Contracts.dll
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\OpenHote.D077A565.Up2Date
