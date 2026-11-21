@@ -10,3 +10,4 @@ S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\refint\OpenHotel.Cont
 S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\OpenHotel.Contracts.pdb
 S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\ref\OpenHotel.Contracts.dll
 S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\OpenHote.D077A565.Up2Date
+S:\DEV\OpenHotel\src\OpenHotel.Contracts\obj\Debug\net11.0\OpenHotel.Contracts.sourcelink.json
